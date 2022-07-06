@@ -1,0 +1,7 @@
+{
+  "title": "Login",
+  "links": {
+    "register": "Sign up",
+    "registerMessage": "Need an account?"
+  }
+}

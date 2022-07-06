@@ -1,0 +1,71 @@
+{
+  "companyName": "People",
+  "header": {
+    "links": {
+      "login": "Вход",
+      "register": "Регистрация"
+    }
+  },
+  "pageTitles": {
+    "user": "Люди",
+    "userlList": "Список людей"
+  },
+  "form": {
+    "label": {
+      "email": "Почта",
+      "password": "Пароль",
+      "confirmPassword": "Подтвердить пароль",
+      "surname": "Фамилия",
+      "username": "Имя пользователя",
+      "name": "Имя",
+      "avatar": "Аватарка",
+      "age": "Возраст"
+    },
+    "button": {
+      "submit": "Отправить",
+      "pay": "Оплатить",
+      "cancel": "Отменить",
+      "later": "Позже",
+      "confirm": "Подтвердить",
+      "complain": "Пожаловаться",
+      "save": "Сохранить",
+      "ok": "Ok",
+      "edit": "Редактировать",
+      "remove": "Удалить",
+      "back": "Назад",
+      "continue": "Продолжить",
+      "goToSettings": "Перейти к настройкам"
+    },
+    "validations": {
+      "required": "Обязательно для заполнения",
+      "requiredAccept": "Требуется принять",
+      "numberPositive": "Только положительное число",
+      "numberInteger": "Только целое число",
+      "onlyNumbers": "Только цифры",
+      "usernameRequired": "Имя пользователя обязательно",
+      "nameRequired": "Имя обязательно",
+      "nameNoNumbers": "Имя не должно содержать цифры",
+      "surnameRequired": "Фамилия обязательна",
+      "surnameNoNumbers": "Фамилия не должна содержать цифры",
+      "emailRequired": "Почта обязательна",
+      "email": "Введите действительный эелектронный адрес",
+      "passwordRequired": "Пароль обязателен",
+      "passwordMinLength": "Пароль должен быть больше 6 символов",
+      "passwordConfirmRequired": "Требуется подтверждение пароля",
+      "passwordMatch": "Пароли не совпадают",
+      "minOneMedia": "Обязательно для заполнения"
+    }
+  },
+  "card": {
+    "links": {
+      "viewMore": "Посмотреть подробнее"
+    },
+    "user": {
+      "surname": "Фамилия",
+      "username": "Пользователь",
+      "email": "Почта",
+      "age": "Возраст"
+    }
+  },
+  "user": { "profile": "Профиль" }
+}

@@ -1,0 +1,68 @@
+{
+  "companyName": "People",
+  "header": {
+    "links": {
+      "login": "Login",
+      "register": "Register"
+    }
+  },
+  "pageTitles": {
+    "user": "User",
+    "userList": "User list"
+  },
+  "form": {
+    "label": {
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm password",
+      "surname": "Surname",
+      "username": "Username",
+      "name": "Name",
+      "avatar": "Avatar",
+      "age": "Age"
+    },
+    "button": {
+      "submit": "Submit",
+      "cancel": "Cancel",
+      "later": "Later",
+      "confirm": "Confirm",
+      "edit": "Edit",
+      "remove": "Remove",
+      "back": "Back",
+      "continue": "Continue",
+      "goToSettings": "Go to settings",
+      "estimate": "Estimate",
+      "paid": "Paid",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "validations": {
+      "usernameRequired": "Username is required",
+      "nameRequired": "Name is required",
+      "nameNoNumbers": "Name should not contain numbers",
+      "surnameRequired": "Surname is required",
+      "surnameNoNumbers": "Surname should not contain numbers",
+      "emailRequired": "Email is required",
+      "email": "Email must be valid",
+      "passwordRequired": "Password is required",
+      "passwordMinLength": "Password must be more than 6 characters",
+      "passwordConfirmRequired": "Password confirmation is required",
+      "passwordMatch": "Passwords do not match",
+      "avatarRequired": "Avatar is required",
+      "ageRequired": "Age is required",
+      "minOneMedia": "Required to fill"
+    }
+  },
+  "card": {
+    "links": {
+      "viewMore": "View More"
+    },
+    "user": {
+      "surname": "Surname",
+      "username": "User",
+      "email": "Email",
+      "age": "Age"
+    }
+  },
+  "user": "profile"
+}
